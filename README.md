@@ -1,6 +1,6 @@
 # Word Chain Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/01-Meyitzade-01/MytOyun)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CybrGhostf/MytOyun)
 
 
 (Epic icon by [sahip](https://github.com/AdriTheDreamer)) 
